@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krithika Bhattacharyya
 - 👀 I’m interested in Sports
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development & Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhattacharyyakrithika@gmail.com
 
