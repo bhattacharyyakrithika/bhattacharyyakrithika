@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krithika Bhattacharyya
-- 👀 I’m interested in Sports,Music & Travel
-- 🌱 I’m currently learning Web Development & Machine Learning (Basics)
-- 💞️ I’ve learnt Cpp,C,JAVA,Python & SQL
+- 👀 I’m highly passionate about Sports, Music & Travel
+- 🌱 I’m currently working as a Software Developer & learning Machine Learning (Basics)
+- 💞️ I’ve learned Cpp, C, JAVA, Python & SQL
 - 📫 How to reach me bhattacharyyakrithika@gmail.com
 
 <!---
